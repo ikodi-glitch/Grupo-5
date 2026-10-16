@@ -1,0 +1,15 @@
+# Compilacion de Maven
+target/
+
+# Configuracion de los IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/private/
+
+# Ficheros del sistema operativo
+.DS_Store
+Thumbs.db
